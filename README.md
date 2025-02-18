@@ -1,3 +1,7 @@
+# Get id in web
+Node -> Manage nodes -> Add CLI node (wait or reload page if id is default)
+
+
 # Ubuntu
 
 1.
