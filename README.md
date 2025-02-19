@@ -27,18 +27,10 @@ sudo apt install -y protobuf-compiler
 curl https://cli.nexus.xyz/ | sh
 ```
 
-5.
-Out with: Ctrl + c
-
-```
-rm -rf $HOME/.nexus/prover-id
-nano $HOME/.nexus/prover-id
-```
 Input your id -> Ctrl + x -> y -> Enter
 
-6.
+5.
 
 ```
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-```
+curl https://cli.nexus.xyz/ | sh```
 
