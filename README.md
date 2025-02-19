@@ -32,5 +32,6 @@ Input your id -> Ctrl + x -> y -> Enter
 5.
 
 ```
-curl https://cli.nexus.xyz/ | sh```
+curl https://cli.nexus.xyz/ | sh
+```
 
